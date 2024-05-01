@@ -1,6 +1,6 @@
 >Mutton yesterday, mutton today, and blimey if it don't look like mutton again tomorrer!
 >
->—- Tom Troll
+> Tom Troll
 
 <!---
 RogerFarrell/RogerFarrell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
